@@ -37,8 +37,8 @@ Project Structure
 
 How to Run
 1. Clone this repository:
-    - git clone https://github.com/<your-username>/number-guessing-game.git
-    - cd number-guessing-game
+    - git clone https://github.com/jmbaleyos-linkedin/NumberGuessing.git
+    - cd NumberGuessing
 2. Run the game
     - python main.py
 
